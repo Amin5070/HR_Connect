@@ -74,3 +74,6 @@ yield bar.readline()
  
 # TODO - ADD MORE SUCH METHODS HERE  
 # TODO - UNDERSTAND USAGE OF `classmethod` HERE 
+
+
+# GIT CLONE PRACTICE
